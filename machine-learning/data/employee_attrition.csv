@@ -1,0 +1,201 @@
+id,name,department,position,years_at_company,monthly_salary,satisfaction_score,last_evaluation,attrition
+1,Dedi Suryadi,Engineering,Software Engineer,8,11000000,0.3,0.82,1
+2,Sri Kusuma,Engineering,Tech Lead,1,4000000,0.18,0.46,1
+3,Tika Pratama,Marketing,Content Strategist,7,18000000,0.63,0.87,0
+4,Hendra Wijaya,Finance,Accountant,8,8000000,0.29,0.83,0
+5,Hendra Wijaya,HR,Recruiter,8,5000000,0.76,0.68,0
+6,Wahyu Saputra,Marketing,Content Strategist,11,22000000,0.27,0.35,1
+7,Lina Lestari,Engineering,QA Engineer,3,16000000,0.35,0.74,0
+8,Diah Kusuma,Sales,Sales Manager,8,25000000,0.68,0.73,0
+9,Fitri Lestari,Sales,Account Manager,12,12000000,0.99,0.75,0
+10,Yoga Nugroho,Engineering,QA Engineer,1,14000000,0.46,0.35,1
+11,Rizky Kusuma,HR,HR Officer,15,16000000,0.9,0.75,0
+12,Rizky Suryadi,Marketing,Marketing Manager,8,22000000,0.49,0.71,0
+13,Intan Wijaya,Finance,Financial Analyst,1,7000000,0.24,0.41,1
+14,Fitri Ramadhan,Finance,Accountant,14,20000000,0.33,0.69,1
+15,Diah Nugroho,Engineering,DevOps Engineer,10,7000000,0.36,0.41,0
+16,Rudi Suryadi,HR,HR Manager,5,20000000,0.92,0.91,0
+17,Eko Nugroho,Marketing,Marketing Specialist,4,15000000,0.79,0.68,0
+18,Tika Saputra,Engineering,DevOps Engineer,15,4000000,0.2,0.55,1
+19,Andi Wibowo,Sales,Sales Executive,7,22000000,0.95,0.36,0
+20,Ratna Anggraini,Marketing,Marketing Specialist,4,25000000,0.53,0.68,0
+21,Dedi Suryadi,Finance,Financial Analyst,6,13000000,0.46,0.77,0
+22,Yoga Kusuma,Finance,Financial Analyst,7,11000000,0.16,0.31,1
+23,Eko Kusuma,Engineering,Software Engineer,1,11000000,0.16,0.32,1
+24,Yoga Permata,HR,HR Manager,15,10000000,0.59,0.81,0
+25,Wulan Permata,Sales,Account Manager,13,10000000,0.18,0.76,1
+26,Agus Kusuma,Engineering,Software Engineer,1,16000000,0.76,0.86,0
+27,Andi Permata,Marketing,Content Strategist,4,17000000,0.27,0.62,1
+28,Ayu Wibowo,Marketing,Marketing Specialist,1,24000000,1.0,0.89,0
+29,Putri Hidayat,Sales,Sales Executive,13,19000000,0.53,0.91,0
+30,Tika Suryadi,Engineering,Tech Lead,8,18000000,0.36,0.79,1
+31,Siti Ramadhan,Finance,Financial Analyst,6,13000000,0.3,0.34,1
+32,Siti Suryadi,HR,HR Officer,1,22000000,0.53,0.94,0
+33,Dedi Anggraini,Engineering,QA Engineer,2,23000000,0.16,0.9,1
+34,Fajar Nugroho,Sales,Sales Manager,1,23000000,0.17,0.76,1
+35,Bayu Lestari,HR,HR Officer,10,11000000,0.34,0.39,1
+36,Agus Suryadi,Engineering,Software Engineer,14,23000000,1.0,1.0,0
+37,Iwan Suryadi,HR,HR Officer,11,6000000,0.89,0.56,0
+38,Dedi Pratama,HR,HR Manager,0,25000000,0.84,0.51,1
+39,Fajar Kusuma,HR,HR Officer,3,21000000,0.24,0.5,1
+40,Wulan Handayani,HR,HR Manager,15,12000000,0.91,0.89,0
+41,Diah Permata,HR,HR Officer,0,14000000,0.79,0.75,0
+42,Dedi Pratama,Marketing,Marketing Manager,13,21000000,0.11,0.35,1
+43,Lina Nugroho,Marketing,Marketing Specialist,11,22000000,0.6,0.6,0
+44,Dedi Handayani,Engineering,DevOps Engineer,6,25000000,0.32,0.37,1
+45,Dedi Hidayat,Finance,Finance Manager,4,11000000,0.88,0.98,0
+46,Doni Pratama,Engineering,QA Engineer,10,17000000,0.82,0.9,0
+47,Maya Handayani,Engineering,Tech Lead,1,19000000,0.3,0.87,1
+48,Wahyu Saputra,Sales,Sales Executive,0,25000000,0.27,0.53,1
+49,Dewi Nugroho,HR,HR Manager,12,25000000,0.98,0.68,0
+50,Fajar Hidayat,HR,HR Officer,8,5000000,0.2,0.6,1
+51,Wulan Santoso,Marketing,Marketing Manager,3,16000000,0.91,0.43,0
+52,Intan Lestari,Marketing,Marketing Manager,6,15000000,0.49,0.96,0
+53,Rizky Kusuma,Engineering,DevOps Engineer,9,25000000,0.47,0.58,0
+54,Hendra Suryadi,Finance,Finance Manager,12,25000000,0.77,0.42,0
+55,Bayu Permata,Engineering,DevOps Engineer,9,10000000,0.49,0.71,0
+56,Putri Setiawan,Finance,Finance Manager,6,20000000,0.53,0.93,0
+57,Rina Wibowo,Engineering,DevOps Engineer,10,6000000,0.84,0.83,0
+58,Andi Permata,Sales,Sales Executive,0,5000000,0.32,0.63,1
+59,Budi Nugroho,Finance,Finance Manager,6,16000000,0.54,0.47,1
+60,Sri Kusuma,Engineering,Tech Lead,7,9000000,0.82,0.79,0
+61,Wahyu Nugroho,Engineering,Tech Lead,4,18000000,0.7,0.99,0
+62,Bayu Saputra,Finance,Finance Manager,13,21000000,0.5,0.41,1
+63,Arief Saputra,Sales,Sales Manager,8,20000000,0.54,0.47,0
+64,Hendra Ramadhan,Sales,Account Manager,10,14000000,0.9,0.36,0
+65,Siti Kusuma,Sales,Sales Manager,6,6000000,0.47,0.53,0
+66,Wahyu Hidayat,Finance,Accountant,0,22000000,0.44,0.3,1
+67,Fajar Setiawan,Finance,Finance Manager,7,19000000,0.3,0.61,0
+68,Ayu Hidayat,Finance,Finance Manager,5,18000000,0.93,0.99,0
+69,Siti Saputra,Marketing,Marketing Manager,0,6000000,0.68,0.39,1
+70,Wahyu Handayani,Finance,Accountant,6,18000000,0.39,0.83,0
+71,Lina Kusuma,Finance,Accountant,2,19000000,0.12,0.68,1
+72,Rizky Permata,Engineering,Software Engineer,0,11000000,0.28,0.31,1
+73,Diah Ramadhan,Engineering,QA Engineer,14,12000000,0.79,0.42,0
+74,Ayu Hidayat,Engineering,QA Engineer,9,7000000,0.62,0.95,0
+75,Arief Wibowo,Finance,Finance Manager,6,6000000,0.63,0.88,0
+76,Lina Wijaya,HR,HR Manager,3,22000000,0.8,0.54,0
+77,Lina Setiawan,Marketing,Marketing Manager,10,4000000,0.86,0.88,0
+78,Intan Wibowo,Finance,Finance Manager,4,17000000,0.26,0.67,1
+79,Rina Handayani,Marketing,Content Strategist,14,17000000,0.84,0.71,0
+80,Fajar Santoso,Engineering,DevOps Engineer,14,11000000,0.78,0.7,0
+81,Dedi Anggraini,Finance,Accountant,5,19000000,0.29,0.86,0
+82,Nadia Suryadi,HR,HR Manager,0,20000000,0.95,0.36,1
+83,Maya Kusuma,Sales,Sales Manager,15,24000000,0.74,0.61,0
+84,Lina Hidayat,Finance,Finance Manager,7,13000000,0.7,0.56,0
+85,Agus Lestari,Marketing,Content Strategist,11,18000000,0.34,0.48,0
+86,Wahyu Suryadi,Engineering,QA Engineer,6,10000000,0.76,0.49,0
+87,Arief Suryadi,Marketing,Content Strategist,3,10000000,0.37,0.55,0
+88,Ratna Wibowo,Sales,Account Manager,1,5000000,0.6,0.79,0
+89,Siti Saputra,Finance,Financial Analyst,0,22000000,0.36,0.64,1
+90,Rizky Pratama,Finance,Financial Analyst,2,16000000,0.54,0.7,0
+91,Tika Anggraini,Marketing,Content Strategist,2,11000000,0.21,0.84,1
+92,Wulan Saputra,Sales,Sales Manager,12,18000000,0.92,0.51,0
+93,Rudi Kusuma,Marketing,Marketing Manager,1,23000000,0.96,0.37,0
+94,Wulan Permata,HR,HR Manager,2,9000000,0.32,0.69,0
+95,Bayu Wijaya,Marketing,Content Strategist,9,5000000,0.31,0.79,1
+96,Doni Handayani,Sales,Account Manager,6,17000000,0.2,0.46,1
+97,Ayu Saputra,Sales,Sales Executive,1,9000000,0.81,0.72,0
+98,Nadia Permata,Finance,Financial Analyst,14,13000000,0.73,0.96,0
+99,Fitri Handayani,Engineering,Software Engineer,13,14000000,0.64,0.32,0
+100,Putri Permata,Marketing,Marketing Manager,0,25000000,0.84,0.7,0
+101,Nadia Wijaya,Marketing,Marketing Manager,14,12000000,0.26,0.71,1
+102,Wulan Ramadhan,Finance,Accountant,13,14000000,0.39,0.37,0
+103,Dewi Wibowo,Finance,Accountant,12,21000000,0.13,0.36,1
+104,Eko Lestari,Finance,Finance Manager,0,25000000,0.88,0.62,0
+105,Bayu Nugroho,Marketing,Content Strategist,14,5000000,0.28,0.68,1
+106,Sri Santoso,Finance,Financial Analyst,0,24000000,0.65,0.47,0
+107,Dewi Setiawan,Marketing,Content Strategist,2,11000000,0.99,0.94,0
+108,Nadia Kusuma,Sales,Account Manager,9,20000000,0.73,0.59,0
+109,Rizky Handayani,Finance,Finance Manager,4,16000000,0.27,0.72,1
+110,Maya Ramadhan,Engineering,DevOps Engineer,13,14000000,0.94,0.66,0
+111,Wahyu Suryadi,HR,HR Manager,15,8000000,0.5,0.64,0
+112,Ratna Wibowo,Finance,Accountant,10,10000000,0.98,0.47,0
+113,Fitri Wibowo,Finance,Financial Analyst,10,19000000,0.73,0.87,0
+114,Ratna Handayani,Sales,Account Manager,1,8000000,0.55,0.71,1
+115,Rizky Wijaya,Finance,Financial Analyst,14,4000000,0.75,0.59,0
+116,Ratna Setiawan,Finance,Accountant,10,23000000,0.72,0.75,0
+117,Siti Anggraini,Marketing,Content Strategist,10,24000000,0.75,0.83,0
+118,Rudi Ramadhan,Engineering,QA Engineer,9,11000000,0.77,0.6,0
+119,Maya Lestari,Engineering,Tech Lead,5,13000000,0.91,0.33,0
+120,Putri Pratama,HR,Recruiter,4,11000000,0.58,0.7,0
+121,Doni Permata,Engineering,Tech Lead,7,19000000,0.92,0.4,0
+122,Bayu Lestari,HR,HR Manager,0,18000000,0.91,0.77,0
+123,Ratna Permata,Marketing,Content Strategist,13,12000000,0.51,0.51,1
+124,Budi Handayani,Engineering,QA Engineer,12,22000000,0.42,0.51,1
+125,Ayu Anggraini,Finance,Accountant,0,22000000,0.88,0.84,1
+126,Doni Setiawan,Finance,Accountant,7,23000000,0.82,0.45,0
+127,Yoga Lestari,Sales,Sales Manager,3,24000000,0.68,0.52,0
+128,Sri Nugroho,Sales,Sales Executive,9,14000000,0.77,0.42,0
+129,Tika Saputra,HR,HR Manager,8,9000000,0.33,0.88,0
+130,Diah Setiawan,HR,HR Officer,14,6000000,0.23,0.98,1
+131,Bayu Lestari,Finance,Finance Manager,11,6000000,0.81,0.31,0
+132,Budi Anggraini,HR,HR Manager,12,24000000,0.95,0.38,0
+133,Maya Setiawan,Marketing,Content Strategist,7,24000000,0.16,0.88,1
+134,Dewi Kusuma,Finance,Financial Analyst,4,5000000,0.95,0.51,0
+135,Sri Hidayat,Marketing,Marketing Specialist,12,18000000,0.43,0.96,0
+136,Doni Santoso,Marketing,Marketing Manager,4,17000000,0.69,0.88,0
+137,Fitri Lestari,HR,HR Officer,14,18000000,0.96,0.9,0
+138,Ratna Handayani,Marketing,Marketing Manager,11,5000000,0.46,0.43,0
+139,Fajar Kusuma,Finance,Financial Analyst,6,24000000,0.68,0.98,0
+140,Iwan Handayani,Sales,Sales Manager,6,6000000,0.85,0.69,0
+141,Rizky Suryadi,Sales,Account Manager,4,23000000,0.1,0.9,0
+142,Tika Kusuma,HR,HR Officer,3,25000000,0.88,0.39,0
+143,Dewi Ramadhan,Marketing,Content Strategist,0,9000000,0.34,0.39,1
+144,Intan Santoso,Engineering,Tech Lead,14,15000000,0.56,0.38,0
+145,Hendra Hidayat,Marketing,Content Strategist,14,24000000,0.97,0.34,0
+146,Rizky Saputra,Engineering,Tech Lead,14,6000000,0.91,0.53,0
+147,Intan Hidayat,Marketing,Marketing Manager,10,16000000,1.0,0.67,0
+148,Bayu Hidayat,Engineering,Software Engineer,6,17000000,0.51,0.46,0
+149,Rizky Setiawan,Finance,Finance Manager,3,14000000,0.48,0.77,0
+150,Tika Pratama,Finance,Financial Analyst,2,6000000,0.18,0.37,1
+151,Wahyu Hidayat,Marketing,Marketing Specialist,10,25000000,0.21,0.55,1
+152,Nadia Kusuma,Engineering,DevOps Engineer,9,15000000,0.19,0.66,0
+153,Ratna Suryadi,Engineering,DevOps Engineer,11,7000000,0.79,0.7,0
+154,Putri Saputra,Marketing,Marketing Manager,0,23000000,0.94,0.88,0
+155,Andi Pratama,HR,Recruiter,11,4000000,0.26,0.4,1
+156,Diah Lestari,Engineering,Software Engineer,6,16000000,0.48,0.54,0
+157,Andi Saputra,Marketing,Marketing Manager,2,5000000,0.24,0.83,0
+158,Eko Wijaya,Finance,Finance Manager,13,19000000,0.65,0.59,0
+159,Maya Santoso,HR,Recruiter,3,13000000,0.71,0.72,0
+160,Wahyu Saputra,Sales,Account Manager,1,4000000,0.28,0.96,1
+161,Sri Ramadhan,HR,Recruiter,3,4000000,0.55,0.6,0
+162,Bayu Nugroho,Sales,Sales Manager,11,6000000,0.46,0.82,0
+163,Hendra Santoso,Engineering,DevOps Engineer,13,22000000,0.46,0.75,0
+164,Yoga Hidayat,HR,HR Officer,14,15000000,0.18,0.89,0
+165,Andi Suryadi,Marketing,Marketing Specialist,12,13000000,0.77,0.46,0
+166,Rina Wijaya,Engineering,QA Engineer,11,15000000,0.75,0.87,0
+167,Putri Wibowo,Sales,Account Manager,6,9000000,0.64,0.83,0
+168,Intan Lestari,Finance,Accountant,14,25000000,0.93,0.7,0
+169,Yoga Santoso,HR,HR Officer,14,6000000,0.52,0.74,0
+170,Maya Wijaya,HR,HR Manager,2,13000000,0.52,0.33,1
+171,Bayu Nugroho,Engineering,Tech Lead,14,22000000,0.6,0.85,0
+172,Bayu Wijaya,Marketing,Marketing Manager,6,14000000,0.64,0.65,1
+173,Bayu Suryadi,HR,HR Manager,2,20000000,0.68,0.33,1
+174,Fajar Setiawan,Marketing,Marketing Manager,5,15000000,0.44,0.5,0
+175,Doni Ramadhan,Marketing,Marketing Specialist,10,6000000,0.4,0.69,0
+176,Rudi Ramadhan,Marketing,Marketing Specialist,10,6000000,0.62,0.4,0
+177,Rizky Setiawan,Finance,Financial Analyst,2,13000000,0.6,0.75,0
+178,Agus Lestari,Marketing,Marketing Specialist,13,20000000,0.43,0.55,0
+179,Eko Wibowo,Finance,Financial Analyst,7,8000000,0.24,0.51,1
+180,Hendra Pratama,Marketing,Marketing Manager,1,25000000,0.4,0.84,0
+181,Bayu Anggraini,Sales,Sales Executive,5,18000000,0.14,0.56,1
+182,Nadia Nugroho,HR,HR Manager,14,11000000,0.58,0.52,1
+183,Wulan Pratama,Sales,Account Manager,14,18000000,0.79,0.84,0
+184,Ayu Wijaya,Sales,Sales Manager,4,12000000,0.15,0.64,1
+185,Rizky Handayani,Marketing,Marketing Specialist,9,6000000,0.79,0.49,0
+186,Hendra Suryadi,Finance,Financial Analyst,7,18000000,0.9,0.95,0
+187,Iwan Ramadhan,HR,HR Officer,12,6000000,0.44,0.32,1
+188,Rizky Wibowo,HR,HR Officer,4,5000000,0.36,0.88,1
+189,Diah Anggraini,Finance,Accountant,0,6000000,0.12,0.45,1
+190,Rudi Wibowo,Marketing,Content Strategist,3,13000000,0.31,0.39,1
+191,Rudi Suryadi,Marketing,Content Strategist,2,7000000,0.85,0.65,0
+192,Wulan Pratama,Marketing,Marketing Specialist,4,13000000,0.49,0.73,0
+193,Budi Hidayat,Engineering,DevOps Engineer,2,20000000,0.59,0.85,0
+194,Lina Kusuma,Finance,Financial Analyst,12,15000000,0.33,0.31,1
+195,Iwan Wibowo,Engineering,DevOps Engineer,4,5000000,0.42,0.54,1
+196,Bayu Santoso,Finance,Finance Manager,15,24000000,0.26,0.39,1
+197,Hendra Handayani,HR,HR Officer,1,10000000,0.9,0.52,0
+198,Wahyu Santoso,Marketing,Content Strategist,8,5000000,0.78,0.43,0
+199,Hendra Lestari,HR,Recruiter,3,15000000,0.49,0.58,0
+200,Diah Hidayat,Sales,Account Manager,15,15000000,0.93,0.66,0
